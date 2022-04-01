@@ -12,7 +12,6 @@
         <nav>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="{{ route('dashboard') }}">Dashboard</a></li>
                 <li><a href="{{ route('shop') }}">Shop</a></li>
                 <li><a href="{{ route('cart') }}">Cart</a></li>
                 @auth

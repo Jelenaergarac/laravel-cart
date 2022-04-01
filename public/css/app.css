@@ -156,7 +156,7 @@ td{
     align-items: center;
 }
 .shop-img-box img {
-    max-width: 100%;
+    max-width: 20rem;
     height: fit-content;
 }
 .shop-img-box p {
@@ -191,4 +191,7 @@ td{
     font-size: 25px;
     cursor: pointer;
     color: green;
+}
+.product-img img{
+    width: 50rem;
 }

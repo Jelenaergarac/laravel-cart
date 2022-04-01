@@ -51,6 +51,7 @@
                     </tr>
                 </tbody>
             @endforeach
+          
             @else
             <td class="empty-cart" colspan="6">
                 <p>Shopping Cart is empty!</p>
